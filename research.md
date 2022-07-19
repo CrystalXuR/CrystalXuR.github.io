@@ -16,7 +16,7 @@
 
 ### Benchmarking statistical methods: Metalearners
 
-1) Xu, Y., Ignatiadis, N., Sverdrup E., Fleming S., Wager, S., & Shah, N. (2022). **Treatment Heterogeneity with Survival Outcomes.** arXiv preprint. \\ \arXiv{}  \reproductioncode{https://github.com/som-shahlab/survlearners} \rpkg{https://github.com/som-shahlab/survlearners/tree/master/r-package/survlearners}
+1) Xu, Y., Ignatiadis, N., Sverdrup E., Fleming S., Wager, S., & Shah, N. (2022). **Handbook of Matching and Weighting Adjustments for Causal Inference. Chapter: Treatment Heterogeneity with Survival Outcomes.** Chapman \& Hall/CRC Press (forthcoming). \\ \arXiv{https://arxiv.org/abs/2207.07758}  \reproductioncode{https://github.com/som-shahlab/survlearners} \rpkg{https://github.com/som-shahlab/survlearners/tree/master/r-package/survlearners} 
 
 ### Applied Collaborations
 1) Pfohl, S.R., Zhang, H., Xu, Y., Foryciarz, A., Ghassemi, M. and Shah, N.H. (2022). **A comparison of approaches to improve worst-case predictive model performance over patient subpopulations.** Scientific reports, 12(1), pp.1-13. \\ \closedaccessjournal{https://www.nature.com/articles/s41598-022-07167-7} \arXiv{https://arxiv.org/abs/2108.12250} \reproductioncode{https://github.com/som-shahlab/subpopulation_robustness}
