@@ -23,13 +23,13 @@
 
 2) Yizhe Xu, Stephen Pfohl, Nikolaos Ignatiadis, Agata Foryciarz, Ethan Steinberg, and Nigam H. Shah (2022). **Clinical Utility of Risk Estimation Equations for Atherosclerotic Cardiovascular Disease.** Working paper.
 
-3) Ethan Steinberg, Nikolaos Ignatiadis, Steve Yadlowsky, Yizhe Xu, and Nigam Shah (2022). **Using Public Clinical Trial Reports to Evaluate Observational Study Methods.** \arXiv{https://arxiv.org/pdf/2006.14102.pdf}
+3) Ethan Steinberg, Nikolaos Ignatiadis, Steve Yadlowsky, Yizhe Xu, and Nigam Shah (2022). **Using Public Clinical Trial Reports to Evaluate Observational Study Methods.** \\ \arXiv{https://arxiv.org/pdf/2006.14102.pdf}
 
 4) Pfohl, S.R., Zhang, H., Xu, Y., Foryciarz, A., Ghassemi, M. and Shah, N.H. (2022). **A comparison of approaches to improve worst-case predictive model performance over patient subpopulations.** Scientific reports, 12(1), pp.1-13. \\ \closedaccessjournal{https://www.nature.com/articles/s41598-022-07167-7} \arXiv{https://arxiv.org/abs/2108.12250} \reproductioncode{https://github.com/som-shahlab/subpopulation_robustness}
 
 5) Pfohl, S.R., Xu, Y., Foryciarz, A., Ignatiadis, N., Genkins, J. and Shah, N.H. (2022). **Net benefit, calibration, threshold selection, and training objectives for algorithmic fairness in healthcare.** Accepted by the ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT), 2022. \\ \closedaccessjournal{https://facctconference.org/static/pdfs_2022/facct22-85.pdf} \arXiv{https://arxiv.org/abs/2202.01906} \reproductioncode{https://github.com/som-shahlab/net_benefit_ascvd}
 
-6) Jonathan Lu, Amelia Sattler, Samantha Wang, Ali Raza Khaki, Alison Callahan, Scott Fleming, Rebecca Fong, Benjamin Ehlert, Ron C. Li, Lisa Shieh, Kavitha Ramchandran, Michael F. Gensheimer, Sarah Chobot, Stephen Pfohl, Siyun Li, Kenny Shum, Nitin Parikh, Priya Desai, Briththa Seevaratnam, Melanie Hanson, Margaret Smith, Yizhe Xu, Arjun Gokhale, Steven Lin, Michael A. Pfeffer, Winifred Teuteberg, Nigam H. Shah (2022). \textbf{Using Public Clinical Trial Reports to Evaluate Observational Study Methods.} \href{https://doi.org/10.1101/2022.07.10.22275967}{MedRxiv} \\
+6) Jonathan Lu, Amelia Sattler, Samantha Wang, Ali Raza Khaki, Alison Callahan, Scott Fleming, Rebecca Fong, Benjamin Ehlert, Ron C. Li, Lisa Shieh, Kavitha Ramchandran, Michael F. Gensheimer, Sarah Chobot, Stephen Pfohl, Siyun Li, Kenny Shum, Nitin Parikh, Priya Desai, Briththa Seevaratnam, Melanie Hanson, Margaret Smith, Yizhe Xu, Arjun Gokhale, Steven Lin, Michael A. Pfeffer, Winifred Teuteberg, Nigam H. Shah (2022). **Using Public Clinical Trial Reports to Evaluate Observational Study Methods.** \\ \arXiv{https://doi.org/10.1101/2022.07.10.22275967}
 
 7) Bress, A.P., Greene, T., Derington, C.G., Shen, J., Xu, Y., Zhang, Y., Ying, J., Bellows, B.K., Cushman, W.C., Whelton, P.K. and Pajewski, N.M. (2021). **Patient selection for intensive blood pressure management based on benefit and adverse events.** Journal of the American College of Cardiology, 77(16), pp.1977-1990. \\ \closedaccessjournal{https://www.jacc.org/doi/abs/10.1016/j.jacc.2021.02.058}
 
