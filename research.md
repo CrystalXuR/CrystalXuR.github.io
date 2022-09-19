@@ -14,14 +14,14 @@
 
 1) Yizhe Xu and Steve Yadlowsky (2022). **Calibration Error for Heterogeneous Treatment Effects.** In International Conference on Artificial Intelligence and Statistics (pp. 9280-9303). PMLR. \\ \openaccessjournal{https://proceedings.mlr.press/v151/xu22c.html} \reproductioncode{https://github.com/CrystalXuR/Calibration-Metric-HTE}
 
-### Benchmarking statistical methods: Metalearners
+### Benchmarking statistical methods: Heterogeneous treatment effects with metalearners
 
-1) Yizhe Xu, Nikolaos Ignatiadis, Erik Sverdrup, Scott Fleming, Stefan Wager, Nigam Shah (2022). **Handbook of Matching and Weighting Adjustments for Causal Inference. Chapter: Treatment Heterogeneity with Survival Outcomes.** Chapman \& Hall/CRC Press (forthcoming). \\ \arXiv{https://arxiv.org/abs/2207.07758}  \reproductioncode{https://github.com/som-shahlab/survlearners} \rpkg{https://github.com/som-shahlab/survlearners/tree/master/r-package/survlearners}
+1) Yizhe Xu, Nikolaos Ignatiadis, Erik Sverdrup, Scott Fleming, Stefan Wager, Nigam Shah (2022). **Handbook of Matching and Weighting Adjustments for Causal Inference. Chapter: Treatment Heterogeneity for Survival Outcomes.** Chapman \& Hall/CRC Press (forthcoming). \\ \arXiv{https://arxiv.org/abs/2207.07758}  \reproductioncode{https://github.com/som-shahlab/survlearners} \rpkg{https://github.com/som-shahlab/survlearners/tree/master/r-package/survlearners}
 
 ### Applied Collaborations
-1) Yizhe Xu, Katelyn Bechler, Alison Callahan, and Nigam Shah (2022). **Evaluating the Treatment Effect Heterogeneity of Dabigatran in Efficacy and Safety Outcomes.** Working paper.  
+1) Yizhe Xu, Katelyn Bechler, Alison Callahan, and Nigam Shah (2022). **A Careful Estimation and Evaluation Process of Treatment Effect Heterogeneity: A case study application to dabigatran for patients with atrial fibrillation.** Working paper.  
 
-2) Yizhe Xu, Stephen Pfohl, Nikolaos Ignatiadis, Agata Foryciarz, Ethan Steinberg, and Nigam H. Shah (2022). **Clinical Utility of Risk Estimation Equations for Atherosclerotic Cardiovascular Disease.** Working paper.
+2) Yizhe Xu, Stephen Pfohl, Nikolaos Ignatiadis, Agata Foryciarz, Ethan Steinberg, and Nigam H. Shah (2022). **Clinical Utility Gains from Incorporating Comorbidity and Geographic Location Information into Risk Esti- mation Equations for Atherosclerotic Cardiovascular Disease.** Working paper.
 
 3) Ethan Steinberg, Nikolaos Ignatiadis, Steve Yadlowsky, Yizhe Xu, and Nigam Shah (2022). **Using Public Clinical Trial Reports to Evaluate Observational Study Methods.** \\ \arXiv{https://arxiv.org/pdf/2006.14102.pdf}
 
@@ -29,7 +29,7 @@
 
 5) Pfohl, S.R., Xu, Y., Foryciarz, A., Ignatiadis, N., Genkins, J. and Shah, N.H. (2022). **Net benefit, calibration, threshold selection, and training objectives for algorithmic fairness in healthcare.** Accepted by the ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT), 2022. \\ \closedaccessjournal{https://facctconference.org/static/pdfs_2022/facct22-85.pdf} \arXiv{https://arxiv.org/abs/2202.01906} \reproductioncode{https://github.com/som-shahlab/net_benefit_ascvd}
 
-6) Jonathan Lu, Amelia Sattler, Samantha Wang, Ali Raza Khaki, Alison Callahan, Scott Fleming, Rebecca Fong, Benjamin Ehlert, Ron C. Li, Lisa Shieh, Kavitha Ramchandran, Michael F. Gensheimer, Sarah Chobot, Stephen Pfohl, Siyun Li, Kenny Shum, Nitin Parikh, Priya Desai, Briththa Seevaratnam, Melanie Hanson, Margaret Smith, Yizhe Xu, Arjun Gokhale, Steven Lin, Michael A. Pfeffer, Winifred Teuteberg, Nigam H. Shah (2022). **Using Public Clinical Trial Reports to Evaluate Observational Study Methods.** \\ \arXiv{https://doi.org/10.1101/2022.07.10.22275967}
+6) Jonathan Lu, Amelia Sattler, Samantha Wang, Ali Raza Khaki, Alison Callahan, Scott Fleming, Rebecca Fong, Benjamin Ehlert, Ron C. Li, Lisa Shieh, Kavitha Ramchandran, Michael F. Gensheimer, Sarah Chobot, Stephen Pfohl, Siyun Li, Kenny Shum, Nitin Parikh, Priya Desai, Briththa Seevaratnam, Melanie Hanson, Margaret Smith, Yizhe Xu, Arjun Gokhale, Steven Lin, Michael A. Pfeffer, Winifred Teuteberg, Nigam H. Shah (2022). **Using Public Clinical Trial Reports to Evaluate Observational Study Methods.** Frontiers in Digital Health. \\ \closedaccessjournal{https://doi.org/10.3389/fdgth.2022.943768}
 
 7) Bress, A.P., Greene, T., Derington, C.G., Shen, J., Xu, Y., Zhang, Y., Ying, J., Bellows, B.K., Cushman, W.C., Whelton, P.K. and Pajewski, N.M. (2021). **Patient selection for intensive blood pressure management based on benefit and adverse events.** Journal of the American College of Cardiology, 77(16), pp.1977-1990. \\ \closedaccessjournal{https://www.jacc.org/doi/abs/10.1016/j.jacc.2021.02.058}
 
