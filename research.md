@@ -4,6 +4,10 @@
 
 ## Publications and Preprints
 
+### Handbook Chapter: Treatment Heterogeneity with Survival Outcomes
+
+1) Yizhe Xu, Nikolaos Ignatiadis, Erik Sverdrup, Scott Fleming, Stefan Wager, Nigam Shah (2022). **Handbook of Matching and Weighting Adjustments for Causal Inference. Chapter 21: Treatment Heterogeneity with Survival Outcomes.** Chapman \& Hall/CRC Press. \\ \closedaccessjournal{https://www.routledge.com/Handbook-of-Matching-and-Weighting-Adjustments-for-Causal-Inference/Zubizaretta-Stuart-Small-Rosenbaum/p/book/9780367609528} \arXiv{https://arxiv.org/abs/2207.07758} \reproductioncode{https://github.com/som-shahlab/survlearners} \rpkg{https://github.com/som-shahlab/survlearners/tree/master/r-package/survlearners}
+
 ### Statistical methodology: Individualized treatment rule
 
 1) Xu, Y., Greene, T.H., Bress, A.P., Sauer, B.C., Bellows, B.K., Zhang, Y., Weintraub, W.S., Moran, A.E. and Shen, J. (2022). **Estimating the optimal individualized treatment rule from a cost‐effectiveness perspective.** Biometrics, 78(1), pp.337-351. \\ \closedaccessjournal{https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13406} \reproductioncode{https://github.com/CrystalXuR/CEAOptimalITR}
@@ -13,10 +17,6 @@
 ### Statistical methodology: Model calibration
 
 1) Yizhe Xu and Steve Yadlowsky (2022). **Calibration Error for Heterogeneous Treatment Effects.** In International Conference on Artificial Intelligence and Statistics (pp. 9280-9303). PMLR. \\ \openaccessjournal{https://proceedings.mlr.press/v151/xu22c.html} \reproductioncode{https://github.com/CrystalXuR/Calibration-Metric-HTE}
-
-### Benchmarking statistical methods: Heterogeneous treatment effects with metalearners
-
-1) Yizhe Xu, Nikolaos Ignatiadis, Erik Sverdrup, Scott Fleming, Stefan Wager, Nigam Shah (2022). **Handbook of Matching and Weighting Adjustments for Causal Inference. Chapter: Treatment Heterogeneity for Survival Outcomes.** Chapman \& Hall/CRC Press (forthcoming). \\ \arXiv{https://arxiv.org/abs/2207.07758}  \reproductioncode{https://github.com/som-shahlab/survlearners} \rpkg{https://github.com/som-shahlab/survlearners/tree/master/r-package/survlearners}
 
 ### Applied Collaborations
 1) Yizhe Xu, Katelyn Bechler, Alison Callahan, and Nigam Shah (2022). **A Careful Estimation and Evaluation Process of Treatment Effect Heterogeneity: A case study application to dabigatran for patients with atrial fibrillation.** Working paper.  
