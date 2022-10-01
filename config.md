@@ -58,6 +58,15 @@
 ~~~    
 }
 
+\newcommand{\closedaccessbook}[1]{
+~~~
+<span class="tooltip">
+<a href=#1><i class="ai ai-closed-access ai-lg"></i></a>
+<span class="tooltiptext">Book</span>
+</span>
+~~~    
+}
+
 \newcommand{\closedaccessjournal}[1]{
 ~~~
 <span class="tooltip">
