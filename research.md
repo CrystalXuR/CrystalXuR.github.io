@@ -4,7 +4,7 @@
 
 ## Publications and Preprints
 
-### Handbook Chapter: Treatment Heterogeneity with Survival Outcomes
+### Book Chapter: Treatment Heterogeneity with Survival Outcomes
 
 1) Yizhe Xu, Nikolaos Ignatiadis, Erik Sverdrup, Scott Fleming, Stefan Wager, Nigam Shah (2022). **Handbook of Matching and Weighting Adjustments for Causal Inference. Chapter 21: Treatment Heterogeneity with Survival Outcomes.** Edited by José R. Zubizaretta, Elizabeth A. Stuart, Dylan S. Small, Paul R. Rosenbaum. Chapman & Hall/CRC Press. \\ \closedaccessbook{https://www.routledge.com/Handbook-of-Matching-and-Weighting-Adjustments-for-Causal-Inference/Zubizaretta-Stuart-Small-Rosenbaum/p/book/9780367609528} \arXiv{https://arxiv.org/abs/2207.07758} \reproductioncode{https://github.com/som-shahlab/survlearners} \rpkg{https://github.com/som-shahlab/survlearners/tree/master/r-package/survlearners}
 
