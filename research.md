@@ -18,6 +18,9 @@
 
 1) **Yizhe Xu** and Steve Yadlowsky (2022). **Calibration Error for Heterogeneous Treatment Effects.** In International Conference on Artificial Intelligence and Statistics (pp. 9280-9303). PMLR. \\ \openaccessjournal{https://proceedings.mlr.press/v151/xu22c.html} \reproductioncode{https://github.com/CrystalXuR/Calibration-Metric-HTE}
 
+### Computer Science: Language model, Foundation model, Self-supervised learning, and Transfer learning
+1) Ethan Steinberg, **Yizhe Xu**, Jason Fries, and Nigam Shah (2023). **Self-supervised Time-to-Event Modeling with Structured Medical Records.** In International Conference on Artificial Intelligence and Statistics (pp. 9280-9303). PMLR. \\ \arXiv{https://arxiv.org/abs/2301.03150} \reproductioncode{https://github.com/som-shahlab/piton}
+
 ### Applied Collaborations
 1) **Yizhe Xu**, Katelyn Bechler, Alison Callahan, and Nigam Shah (2022). **A Careful Estimation and Evaluation Process of Treatment Effect Heterogeneity: A case study application to dabigatran for patients with atrial fibrillation.** Working paper.  
 
